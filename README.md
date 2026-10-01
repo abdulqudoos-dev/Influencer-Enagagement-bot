@@ -1,5 +1,7 @@
 # Influencer Engagement Bot
 
+> **Built by [Abdul Qudoos](https://www.abdul-qudoos.com)**, AI Automation & Forward Deployed Engineer · [Read the case study](https://www.abdul-qudoos.com/work/influencer-engagement-automation) · [More projects](https://www.abdul-qudoos.com/work)
+
 A full-stack application for managing influencer engagement through automated email sending. Features a modern glassmorphism UI and AI-powered email generation.
 
 ## Project Structure
@@ -404,3 +406,14 @@ For issues or questions:
 ---
 
 **Last Updated:** December 30, 2025
+
+---
+
+## About the author
+
+I'm **Abdul Qudoos**, an AI automation and forward deployed engineer based in Islamabad, Pakistan. I build production AI agents, voice agents, workflow automation, and the full-stack products around them.
+
+- Portfolio: [abdul-qudoos.com](https://www.abdul-qudoos.com)
+- Case studies: [abdul-qudoos.com/work](https://www.abdul-qudoos.com/work)
+- LinkedIn: [Abdul Qudoos](https://www.linkedin.com/in/abdul-qudoos-9a4640324/)
+- Email: abdulqudoos7113@gmail.com
